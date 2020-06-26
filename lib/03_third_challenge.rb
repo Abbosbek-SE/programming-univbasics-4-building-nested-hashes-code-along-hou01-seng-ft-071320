@@ -17,10 +17,10 @@ def third_challenge
        
         },
       :matriarch => {
-        #your key/value pairs here
+        
         },
       :heroine => {
-        #your key/value pairs here
+     
         },
       :heroine_friends => []
    }
