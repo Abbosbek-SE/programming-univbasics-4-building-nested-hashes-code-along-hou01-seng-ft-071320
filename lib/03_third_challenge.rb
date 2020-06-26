@@ -17,7 +17,7 @@ def third_challenge
         {:name => "Benvolio",
           :age => "17",
           :attitude => "worried"
-        }
+        },
         {
           :name => "Mercuito",
           :age => "18",
@@ -38,7 +38,17 @@ def third_challenge
         :name => "Juliet",
         :age => "15"
         },
-      :heroine_friends => []
+      :heroine_friends => [
+        {:name => "Steven",
+          :age => "30",
+          :attitude => "confused"
+        },
+        {
+          :name => "Nurse",
+          :age => "44",
+          :attitude => "worried"
+        }
+        ]
    }
   }
 
